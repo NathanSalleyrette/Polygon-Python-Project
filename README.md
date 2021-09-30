@@ -1,4 +1,4 @@
-# Projet-Polygones-Python
+# Polygon-Python-Project
 Algorithmic project about polygon inclusions, ENSIMAG first year project.
 In this file, you can find 2 scripts in order to solve the 2 following problems: 
 
