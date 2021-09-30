@@ -1,8 +1,7 @@
 # Projet-Polygones-Python
-Projet d'Algorithmique portant sur les inclusions de polygones, ENSIMAG 1A
-Dans ce répertoire, on trouve 2 programmes pour résoudre la problématique suivante:
+Algorithmic project about polygon inclusions, ENSIMAG first year project.
+In this file, you can find 2 scripts in order to solve the 2 following problems: 
 
-On prend plusieurs polygones placés sur un plan, pour chaque polygone P, on doit déterminer dans quel(s) polygone(s) est inclus P. Le premier algorithme détecte tous les polygones
-dans lesquels P est inclus puis il trie pour garder le plus petit polygone.
-Le second algorithme fonctionne de la même manière mais au lieu de passer en revue tous les polygones, on passe en revue uniquement les polygones avec une aire supérieure à 
-celle de P (car P est forcément inclus dans un polygone d'aire plus élevée que la sienne). Cette 2è version permet de gagner du temps de calcul
+We take many polygons on a plan, for each polygon P, we have to determine in which polygons P is included. The first algorithm detects every polygons in which P is included then it sorts them in order to keep the smallest polygon.
+
+The second algorithm is based on the same strategy but instead of looking at every polygons, it just looks at the polygons with an area higher than P. This second version is faster than the previous one.
