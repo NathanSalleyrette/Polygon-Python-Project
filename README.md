@@ -1,6 +1,6 @@
 # Polygon-Python-Project
 Algorithmic project about polygon inclusions, ENSIMAG first year project.
-In this file, you can find 2 scripts in order to solve the 2 following problems: 
+In this file, you can find 2 scripts in order to solve the 2 following problems : 
 
 We take many polygons on a plan, for each polygon P, we have to determine in which polygons P is included. The first algorithm detects every polygons in which P is included then it sorts them in order to keep the smallest polygon.
 
